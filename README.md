@@ -1,8 +1,9 @@
-# Stagely
+# Stagely (https://stagely-ai.web.app/)
 
 A no-friction job application tracker. Paste a job post, confirm the fields,
 and it's saved, with stale "Applied" jobs flagged automatically so nothing
 quietly fall
+
 
 ## Stack
 - React + Vite (frontend)
